@@ -42,7 +42,9 @@ Using the cleaned dataframe, Ryann created a new dataframe which grouped the dat
 -----------------------------------------Question #2-----------------------------------------
 What is the correlation between location vs crime rate?
 
+As Mario looked deeper into the Chicago crime data the question arose whether location and crime rate were correlated. There seemed to be an early indicator with an answer of yes with District 11 having the most crimes thus location and crime rate were related. District 11 was found to have a crime rate of 79.99 per 100k. This means for every 100k in this district there would be about 80 crimes committed. However, creating a scatter plot to compare the two it was found the r-value (or the correlation coefficient) was at a 0.21 making the correlation very weak with no merit. It was interesting to find the linear regression line had a negative indicating the possibility the further you head east the lower the crime rate.
 
+Is this finding clear evidence certain areas don’t have more crimes committed that others? Well no. Our sample size was not indicative of Chicago’s full complete districts and our data was heavily skewed with plenty of missing data. Chicago has a total of 77 districts and our data set only contained 16 of them. In total only 6555 individual data points were used to evaluate the correlation coefficient. With a city as big as Chicago there definitely needs to be a larger sample size.
 
 -----------------------------------------Question #3-----------------------------------------
 What is the comparison between domestic vs. nondomestic infractions and what percentage of charges lead to arrests?

@@ -14,7 +14,7 @@ After we cleaned your data and were ready to start crunching numbers, we should 
 
 Data Analysis write up: Supplemental to our formal presentation
 
-----------------------------------During the Exploration and Analysis -----------------------------
+-------------------------During the Exploration and Analysis-------------------------
 
 Initially, we wanted to compare the crime reports taht were recorded between 2020-2023. After extracting the null values, we created a list to represent the counts of incidents per year. When we did this, we found that in 2020, 8046 crimes were recorded; in 2021, 1519 crimes were reported; in 2022, 610 crimes were reported, and in 2023, 44 crimes had been reported on or before March of that year. 
 

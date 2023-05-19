@@ -39,6 +39,9 @@ What trends do we see in violations?
 
 Using the cleaned dataframe, Ryann created a new dataframe which grouped the data by Priamry Type of infraction. With this, she observed that the top three types of infractions were Battery, Theft, and Criminal Damage. She then analyzed each of the results by creating speerate dataframes for each type of infraction so that they could be further analyzed based on the infraction's description. In doing so, she was able to present findings on the description of the Criminal Damage charges which were broken down into the following categories: Criminal Damage to State Supported Property, Criminal Damage to City of Chicago Property, Criminal Damage as Criminal Defacement, Criminal Damage to Vehicle, and Criminal Damage to Property. With this analysis, it was clear that most Criminal Damage charges are categorized under Criminal Damage to Property; this does not include the state or city's property, but rather private property. With this information, along with proceeding analysis from the other group members, the group could reason that investments in enhanced security measures on private properties would benefit the safety of the communities that reported higher than average crime rates.
 
+![alt text](https://github.com/msryannhawkins/Project-1-5/blob/main/Chicago%20Analysis/CD_Pie.png
+ "Pie Chart")
+ 
 -----------------------------------------Question #2-----------------------------------------
 What is the correlation between location vs crime rate?
 

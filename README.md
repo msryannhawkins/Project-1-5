@@ -1,5 +1,5 @@
 # Project-1-5
-In our first project, we were asked to collaborate on an eploratory data analysis. In order to ensure effective communication, we created a Slack channel and ensures that the group knew each group member’s available working hours. We set up an agile project by using GitHub ProjectsLinks to an external site, so that our group can track tasks.
+In our first project, we were asked to collaborate on an exploratory data analysis. In order to ensure effective communication, we created a Slack channel and ensures that the group knew each group member’s available working hours. We set up an agile project by using GitHub ProjectsLinks to an external site, so that our group can track tasks.
 
 Before we started writing any code, our group outlines the scope and purpose of our project. This helped provide direction and safeguard against scope creep (the tendency for projects to become more complex after work begins).
 
